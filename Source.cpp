@@ -6,7 +6,7 @@
 const int n = 20;
 const int size =100;
 const int amountWords = 100;
-
+// helloGit
 void readDataFile(char *file1name, char words[n][size], int & amountStrings)//סקטעûגאול פאיכ1 ט פאיכ2 ג סטלגמכüםûי לאססטג
 {
 	char strData[n];
